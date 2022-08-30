@@ -1,2 +1,4 @@
 #!/bin/bash
 echo "School"
+echo "ALX School">>alx
+echo echo The school is open!
